@@ -1,6 +1,6 @@
 [package]
 name = "azathoth_logger"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2024"
 description = "Logger used by the AzathothC2 framework"
 repository = "https://github.com/AzathothC2/azathoth_logger"

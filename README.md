@@ -27,6 +27,7 @@ Or manually in `Cargo.toml`: ```azathoth_libload = "0.1.0";```
 
 * 0.1.0: Initial code commit
 * 0.1.1: Fixed macros
+* 0.1.2: Fixed macros again + changed docs slightly
 
 ## License
 MIT
