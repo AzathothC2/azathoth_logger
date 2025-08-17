@@ -23,5 +23,10 @@ Add the crate via Cargo:
 
 Or manually in `Cargo.toml`: ```azathoth_libload = "0.1.0";```
 
+## Changelog
+
+* 0.1.0: Initial code commit
+* 0.1.1: Fixed macros
+
 ## License
 MIT

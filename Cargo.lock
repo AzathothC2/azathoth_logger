@@ -4,9 +4,9 @@ version = 4
 
 [[package]]
 name = "azathoth-core"
-version = "0.1.1"
+version = "0.1.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "91e2d046db186928ab3830c86911c3341e52c0e7d6721bfa3323d62d554c5b76"
+checksum = "ca71882dc2adc8cf322c3c858e109a961afe9c6b4b3ab7c991c02c97d4f233fd"
 
 [[package]]
 name = "azathoth-utils"
@@ -29,7 +29,7 @@ dependencies = [
 
 [[package]]
 name = "azathoth_logger"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "azathoth-core",
  "azathoth-utils",
